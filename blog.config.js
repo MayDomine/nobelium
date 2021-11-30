@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://tangyv.com',
   description: '学手艺的孙同学',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#f7f6f3', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#2c3e50', // use hex value, don't forget '#'
